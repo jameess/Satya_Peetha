@@ -364,44 +364,99 @@ a:hover {}
 #footer a {
     color: #8A8A8A;
 }
-.mid .post .entry{
-    float:left;
+
+.mid .post .entry {
+    float: left;
 }
-.picgall p{
-    font-size:2.2em;
+
+.picgall p {
+    font-size: 2.2em;
     text-align: center;
     margin-top: -55px;
-   line-height: 180%
-    
+    line-height: 180%
 }
-.picgall p{
+
+.picgall p {
     margin-left: 190px;
-     color: #82050B;
+    color: #82050B;
 }
-.gally{
-    width:350px;
-    height:330px;
+
+.gally {
+    width: 350px;
+    height: 330px;
     float: left;
     background-color: white;
     margin-left: 73px;
     border: 1px solid black;
     margin-top: -30px;
 }
-.c12 img{
+
+.c12 img {
     float: left;
-     width:350px;
-    height:200px;
+    width: 350px;
+    height: 200px;
 }
-.c6 img{
+
+.c6 img {
     float: left;
-     width:174px;
-    height:127px;
+    width: 174px;
+    height: 127px;
     margin-top: 2px;
 }
-.c6i img{
+
+.c6i img {
     float: left;
-     width:174px;
-    height:127px;
+    width: 174px;
+    height: 127px;
     margin-top: 2px;
     margin-left: 2px
+}
+
+.feedback {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0px 0px 0px 0px;
+}
+
+.outer {
+    float: right;
+    width: 580px;
+    padding: 15px 0px 0px 0px;
+}
+
+.fc12 {
+    font-size: 35px;
+    padding-left: 20px;
+    font-family: cursive;
+    color: black;
+}
+
+.fc12 p {
+    font-size: 10px;
+    font-family: cursive;
+}
+
+.outer {
+    border: 1px solid black;
+    background-color: beige;
+    margin-top: 65px;
+}
+
+.comment {
+    margin-left: 10px
+}
+
+input#button {
+    padding: 8px 25px;
+    background-color: burlywood;
+    border: 1px solid #33842a;
+    color: black;
+    font-size: 1.1em;
+    border-radius: 10px;
+}
+
+.button {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
